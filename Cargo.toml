@@ -1,0 +1,6 @@
+[package]
+name = "sparkles"
+version = "0.1.0"
+authors = ["Ashley Williams <ashley666ashley@gmail.com>"]
+
+[dependencies]
