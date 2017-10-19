@@ -1,6 +1,9 @@
 [package]
 name = "sparkles"
 version = "0.1.0"
-authors = ["Ashley Williams <ashley666ashley@gmail.com>"]
+authors = ["Ashley Williams <ashley666ashley@gmail.com>", "steveklabnik <steve@steveklabnik.com>"]
+description = "✨ is a web framework modelled after the Express framework for Node.js."
+license = "MIT/Apache-2.0"
 
 [dependencies]
+simple-server = "0.2.0"
